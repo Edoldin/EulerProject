@@ -1,4 +1,6 @@
-function isPalindrome(number,base=10){
+
+function isPalindrome(number,base=10)
+{
     const numStr=number.toString(base);
     var bool=true;
     const halflength=Math.floor((numStr.length)/2)
