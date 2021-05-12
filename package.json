@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Edoldin/EulerProject#readme",
   "dependencies": {
-    "mathjs": "^6.6.4"
+    "mathjs": "^7.5.1"
   }
 }
